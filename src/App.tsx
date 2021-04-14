@@ -1,9 +1,10 @@
 import { FC } from 'react';
+import AboutUs from "../src/pages/AboutUs"
 
 const App:FC = () => {
   return (
     <div className="App">
-      Capture
+      <AboutUs/>
     </div>
   );
 }
