@@ -21,7 +21,7 @@ const AboutSection: FC = () => {
                 </div>
             </div>
             <p>
-                Bring your ideas and we give you the right professional.
+                Bring your "dibre" and I will give you the right spell.
             </p>
             <button> Contact Us </button>
             <div className="image">
